@@ -11,6 +11,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
+        
+        // TextView de Britani 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Hola mundo"
+            />
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
